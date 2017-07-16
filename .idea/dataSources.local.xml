@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="thesisassessorsbd@localhost" uuid="f92d3539-a9dc-4e25-85b7-bfbac1aa9118">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <introspection-schemas>*:thesisassessorsbd</introspection-schemas>
+    </data-source>
+  </component>
+</project>
